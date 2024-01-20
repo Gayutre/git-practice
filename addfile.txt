@@ -10,3 +10,4 @@ output :10
 
 this is text file
 
+added output
